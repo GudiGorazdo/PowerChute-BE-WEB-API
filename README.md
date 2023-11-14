@@ -10,7 +10,7 @@ The `PowerChute` class is designed to interact with the PowerCute Business Editi
 def __init__(self, server_ip, port, username, password, pages):
 ```
 
-Initializes a new instance of the PowerChute class.\n
+Initializes a new instance of the PowerChute class.
 Parameters:
 - server_ip (str): The IP address of the PowerCute server.
 - port (str): The port number for the server connection.
