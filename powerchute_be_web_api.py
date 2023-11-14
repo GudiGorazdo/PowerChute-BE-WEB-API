@@ -17,10 +17,6 @@ import requests
 import json
 from bs4 import BeautifulSoup
 
-import requests
-import json
-from bs4 import BeautifulSoup
-
 class PowerChute:
 def __init__(self, server_ip, port, username, password, pages = ['status', 'batterymanagement', 'diagnostics']):
     self.__server_ip = server_ip
