@@ -12,11 +12,11 @@ def __init__(self, server_ip, port, username, password, pages):
 
 Initializes a new instance of the PowerChute class.
 Parameters:
-    - server_ip (str): The IP address of the PowerCute server.
-    - port (str): The port number for the server connection.
-    - username (str): The username for authentication.
-    - password (str): The password for authentication.
-    - pages (list of str): An array of page addresses from which to retrieve data.
+- server_ip (str): The IP address of the PowerCute server.
+- port (str): The port number for the server connection.
+- username (str): The username for authentication.
+- password (str): The password for authentication.
+- pages (list of str): An array of page addresses from which to retrieve data.
 
 ## Customizing Page Addresses****
 - Users can pass an array of page addresses in the pages parameter during the initialization of the PowerChute class. This allows for flexibility in selecting which pages to retrieve data from.
