@@ -1,6 +1,6 @@
 ###############################################################
 #
-#   Author: GudiGorazdo
+#   Author: Oleg Semenikhin
 #   Date: 14/10/2023
 #   Version: 1.0 alpha
 #
